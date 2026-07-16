@@ -6,7 +6,7 @@
 
 ## News
 
-- 2026-07-01: H²-CAST has moved into the next stage, and we are looking forward to good news.
+- 2026-07: H²-CAST has moved into the next stage, and we are looking forward to good news.
 
 ## Overview
 
